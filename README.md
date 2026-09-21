@@ -1,8 +1,8 @@
 # ADDITION-OF-TWO-NUMBERS
 Develop a program to get two values and display the summation value in the text box using Android Studio.
-#Aim:
+# Aim:
   To create and design an Android application that accepts two values from the user and displays their summation value in a text box using Android Studio.
-#EQUIPMENTS REQUIRED:
+# EQUIPMENTS REQUIRED:
     Android Studio (Latest Version)
     Android Emulator or Android Device
 #ALGORITHM:
@@ -122,6 +122,7 @@ public class MainActivity extends AppCompatActivity {
 # OUTPUT:
 <img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/3cf5c0ad-43a7-4d00-aa8c-50c2ebe9741e" />
 <img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/9fa1dc29-37b0-4008-9469-b03e7f050534" />
+
 # RESULT:
 Thus, the Android application to get two values from the user and display their summation value in a text box was developed and executed successfully using Android Studio.
 
